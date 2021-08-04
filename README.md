@@ -1,2 +1,2 @@
 # auto_attack
-    To log some idea
+    For log some idea
