@@ -372,8 +372,7 @@ free_port = getFreePort()
 if __name__ == "__main__":
     targetfile = "1.txt"
     # queue = readTargets(targetfile)
-    # queue = ['99.1.22.10:16379', '99.1.22.10:26379', '99.1.22.10:36379', '99.1.22.10:46379', '99.1.22.10:56379']
-    queue = ['99.1.22.6:6379']
+    queue = ['127.0.0.1:6379']
     logFile(path='log/')
     ipports = []
     expfilename = 'exp.so'
